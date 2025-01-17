@@ -1,0 +1,10 @@
+/test-output/*/
+/.project/
+/.classpath/
+/.idea/
+
+/target/
+/target/classes/
+/target/test-classes/
+/test-output/
+/.settings/
